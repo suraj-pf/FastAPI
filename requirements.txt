@@ -1,0 +1,40 @@
+# Web Development (FastAPI, Uvicorn, Pydantic)
+fastapi==0.95.1
+uvicorn==0.22.0
+pydantic==1.10.9
+
+# Data Science & Machine Learning (NLP, LLM)
+numpy>=1.25.0
+pandas>=2.1.0
+scikit-learn>=1.3.0
+tensorflow>=2.16.1
+# Keras is part of TensorFlow now, so you can omit standalone keras unless needed
+torch>=2.4.0
+transformers>=4.35.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# Other / Compatibility
+typing-extensions>=4.6.0
+# Web Development (FastAPI, Uvicorn, Pydantic)
+fastapi==0.95.1
+uvicorn==0.22.0
+pydantic==1.10.9
+
+# Data Science & Machine Learning (NLP, LLM)
+numpy>=1.25.0
+pandas>=2.1.0
+scikit-learn>=1.3.0
+tensorflow>=2.16.1
+# Keras is part of TensorFlow now, so you can omit standalone keras unless needed
+torch>=2.4.0
+transformers>=4.35.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# Other / Compatibility
+typing-extensions>=4.6.0
