@@ -10,3 +10,8 @@ pandas
 # Utilities
 tqdm
 scikit-learn
+
+# web
+fastapi
+uvicorn
+pydantic
